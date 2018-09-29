@@ -4,7 +4,6 @@ author: Atish Patra
 github: https://github.com/atishp04
 about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
@@ -41,6 +40,16 @@ urls:
 
 url: "https://atishp04.github.io/test"
 baseurl: "/test"
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+# url: "http://username.github.io"
+# baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
