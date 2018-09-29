@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://atishp04.github.io"
+url: "https://atishp04.github.io/test"
 baseurl: "/test"
 paginate: 20
 per_page: 20
