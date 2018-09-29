@@ -1,7 +1,7 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
+author: Atish Patra
+github: https://github.com/atishp04
 about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
@@ -39,8 +39,8 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
-baseurl: ""
+url: "https://atishp04.github.io"
+baseurl: "/test"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
