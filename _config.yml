@@ -38,8 +38,8 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://atishp04.github.io/test"
-baseurl: "/test"
+url: https://atishp04.github.io/test
+baseurl: /test/
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 # url: "http://username.github.io"
