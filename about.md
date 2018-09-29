@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am Linux kernel developer working on interesting system problems and different architectures.
 
-email: agus[at]python.web.id
+email: atish[at]gmail.com
