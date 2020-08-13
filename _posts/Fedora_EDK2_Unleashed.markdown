@@ -103,6 +103,8 @@ Copy the Fedora rootfs to the 2nd partition of the sdcard
 sudo dd if=Fedora-Developer-Rawhide-20200108.n.0-sda2.raw of=/dev/sda2 bs=1M
 ```
 
+You can remove the sdcard from the host and insert into the HiFive Unleashed board.
+After reset, it should boot EDK2 in few minutes.
 Once you are at EDK2 shell prompt, mount the ramdisk and opendisk.
 ```
 embeddedramdisk 4f2f3d7b-35ef-411b-9d26-e76ecacbaf8b
